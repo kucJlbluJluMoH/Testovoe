@@ -780,7 +780,6 @@ MonoBehaviour:
   abilities:
   - {fileID: 1898162259}
   - {fileID: 989402319}
-  abilitiesCDLeft: []
 --- !u!114 &442277004
 MonoBehaviour:
   m_ObjectHideFlags: 0
